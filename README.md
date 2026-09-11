@@ -1,45 +1,311 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Nivas Verelli ! 👋</h1>
-  <h3 align="center">Data Analyst | MS Business Analytics Student | Data Engineer</h3>
-</div>
 
-<p align="center">
-  <a href="https://github.com/nivasverelli">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Scalable+Data+Pipelines;Crafting+Interactive+Dashboards;Optimizing+Business+Workflows;Analyzing+Operational+Data;Always+Learning+%26+Innovating" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Replace this with a custom banner we can design next -->
+<img src="./assets/nivas-banner.png" width="100%" alt="Nivas Verelli — AI Engineer, Builder & Storyteller" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=90" />
-</p>
+<br/>
 
-## 🚀 About Me
+# Hey, I'm Nivas. 👋
 
-👨‍💻 I'm a passionate *Data Analyst & Data Engineer* currently pursuing my *MS in Business Analytics* at UT Dallas. I have hands-on experience in building dashboards, performing advanced data analysis, and translating business requirements into actionable insights.
+### I like building things that make complicated problems feel a little less complicated.
 
-📊 I specialize in *Business Intelligence* using **Power BI** and **Tableau**, and developing robust *Data Engineering* solutions with **SQL**, **Python**, and **Cloud Technologies** (AWS, Azure).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver;Turning+data+into+decisions+and+ideas+into+systems;Learning+in+public+%E2%80%A2+Building+with+curiosity;Sometimes+I+point+a+camera+at+the+world+%F0%9F%93%B7)](https://git.io/typing-svg)
 
-🌱 I’m currently exploring advanced *Supply Chain Analytics*, *Predictive Modeling*, and delivering data-driven decision-making solutions for operational and logistics teams.
+<br/>
 
-📫 *Let's Connect:* I'm always open to interesting collaborations in Data Science & Analytics!
+[Portfolio](https://nivasverelli.com) ·
+[LinkedIn](https://www.linkedin.com/in/nivasverelli) ·
+[YouTube — Nivas Captures](https://www.youtube.com/@nivascaptures) ·
+[Résumé](./assets/Nivas_Verelli_Resume.pdf)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nivasverelli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nivasverelli@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## `01.` A little about me
+
+I'm an **AI Engineer** who enjoys living somewhere between **technology, data, business, and curiosity**.
+
+My journey started with Computer Science in India, moved through analytics and real-world data problems, and eventually brought me to **The University of Texas at Dallas**, where I completed my master's journey in **Business Analytics & AI**.
+
+Somewhere along the way, I realized something:
+
+> **I don't really enjoy technology for the sake of technology.  
+> I enjoy what becomes possible when you understand it well enough.**
+
+That curiosity has taken me through analytics, machine learning, AI systems, research, product thinking, business problems, late-night debugging sessions, conferences, conversations with people far smarter than me, and more experiments than I can count.
+
+And I'm still figuring things out.
+
+That's probably my favorite part.
+
+---
+
+## `02.` What I'm building toward
+
+```text
+                       ┌─────────────┐
+                       │   Curiosity │
+                       └──────┬──────┘
+                              │
+                              ▼
+┌──────────┐          ┌──────────────┐          ┌──────────────┐
+│   Data   │ ───────► │ Understand   │ ───────► │ Build        │
+└──────────┘          │ the Problem  │          │ Something    │
+                      └──────┬───────┘          └──────┬───────┘
+                             │                         │
+                             ▼                         ▼
+                      ┌──────────────┐          ┌──────────────┐
+                      │ Question It  │ ◄─────── │ Measure It   │
+                      └──────┬───────┘          └──────────────┘
+                             │
+                             ▼
+                      do it better.
+```
+
+I'm especially interested in the point where **AI stops being a demo and starts becoming useful**.
+
+Systems that understand context.
+
+Agents that can actually complete work.
+
+Models that survive outside notebooks.
+
+Products where intelligence feels natural rather than forced.
+
+And technology that creates measurable value for the person on the other side of the screen.
+
+---
+
+## `03.` The workbench 🧪
+
+This GitHub is less of a trophy cabinet and more of a **working laboratory**.
+
+You'll find things here that explore:
+
+🧠 intelligent systems  
+📊 messy real-world data  
+🤖 AI-powered products  
+🔬 experiments that may or may not work  
+📈 business problems disguised as technical problems  
+🧩 technical problems disguised as business problems  
+
+Some projects are polished.
+
+Some are still becoming what I imagined.
+
+And some exist because I couldn't stop thinking:
+
+**"There has to be a better way to do this."**
+
+That's usually how things start around here.
+
+---
+
+## `04.` A few things I'm proud of
+
+### 🧬 Research before the AI boom became everyone's personality
+
+During my undergraduate journey, I worked on a healthcare platform exploring machine learning, NLP, disease prediction, healthcare information, and digital doctor consultations.
+
+That work eventually became an **IEEE research publication**.
+
+It taught me something I still carry:
+
+**Building the model is only part of the problem. Building something people can actually use is the harder part.**
+
+→ [Explore the research](YOUR_IEEE_PAPER_LINK)
+
+<br/>
+
+### 🛰️ UTD changed the way I think
+
+My time at **The University of Texas at Dallas** pushed me beyond simply asking:
+
+> *"What does the data say?"*
+
+toward asking:
+
+> *"What decision should this change?"*
+
+Business analytics, machine learning, product thinking, research, people, projects, presentations, university life, and conversations with industry leaders all became part of the same education.
+
+Some lessons happened in classrooms.
+
+A lot of the important ones didn't.
+
+<br/>
+
+### 🌎 From analysis → systems → AI
+
+I've had the chance to work around real analytical and AI problems across different stages of my journey — from preparing and understanding data to building models and thinking about how intelligent systems operate at scale.
+
+I won't turn this README into my résumé.
+
+That's what the button at the top is for. :)
+
+---
+
+## `05.` Currently...
+
+```python
+nivas = {
+    "thinking_about": [
+        "AI agents that actually do useful work",
+        "how intelligence becomes a product",
+        "better ways to evaluate AI systems",
+        "building things people remember"
+    ],
+
+    "usually_doing": [
+        "building",
+        "learning",
+        "breaking something",
+        "figuring out why",
+        "building it again"
+    ],
+
+    "belief": "Curiosity compounds."
+}
+```
+
+The AI world changes almost every morning.
+
+That's exactly why I like being here.
+
+---
+
+## `06.` Learning outside the laptop
+
+One of my favorite ways to understand technology is simply **being around people building it**.
+
+I enjoy attending AI conferences, technology summits, networking events, product conversations, university events, and industry meetups whenever I can.
+
+There's something different about hearing:
+
+**"Here's what we're actually struggling with."**
+
+from someone working on the problem every day.
+
+A twenty-minute conversation can sometimes teach you what twenty hours of tutorials won't.
+
+So if you see me at a tech event staring aggressively at someone's architecture diagram...
+
+I'm probably having a great time.
+
+---
+
+## `07.` I also talk about the journey 🎙️
 
 <div align="center">
 
-| *Languages* | *Analytics & BI* | *Databases* | *Cloud & Web* |
-| :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <br> ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) <br> ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <br> ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) <br> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+### Nivas Captures
+
+**Technology • Careers • Learning • Conversations • Life**
+
+[▶ Watch on YouTube](https://www.youtube.com/@nivascaptures)
+
+</div>
+
+I started **Nivas Captures** because I enjoy documenting what I learn.
+
+Sometimes that's an educational video.
+
+Sometimes it's a career experiment.
+
+Sometimes it's a conversation.
+
+Sometimes it's a podcast.
+
+Sometimes I'm simply trying to explain something complicated in the way I wish somebody had explained it to me.
+
+I don't want to only consume interesting ideas.
+
+I want to **think about them, test them, and share what I learn.**
+
+---
+
+## `08.` Notes from the journey ✍️
+
+I occasionally write about the intersection of:
+
+**AI × Analytics × Business × Careers × Technology**
+
+Not because I have everything figured out.
+
+Mostly because writing forces me to figure out what I actually think.
+
+→ [Read my writing on LinkedIn](https://www.linkedin.com/in/nivasverelli/recent-activity/articles/)
+
+---
+
+<details>
+<summary><b>🎬 You made it this far? Here's the non-technical version of me.</b></summary>
+
+<br/>
+
+When I'm not thinking about AI, there's a good chance I'm:
+
+📸 **Taking photographs**  
+I like freezing moments that would otherwise disappear.
+
+🎬 **Watching movies**  
+Great storytelling fascinates me almost as much as great technology.
+
+🎙️ **Recording something**  
+Videos, conversations, podcasts, random thoughts — sometimes the best ideas begin without a script.
+
+🌆 **Exploring somewhere new**  
+Different places tend to produce different thoughts.
+
+🤝 **Meeting people**  
+Everyone knows something I don't.
+
+🧠 **Overthinking details**  
+Probably more than necessary.
+
+I care a lot about the things I build.
+
+Sometimes that means rebuilding something nobody else would have noticed was wrong.
+
+I used to call that perfectionism.
+
+These days I prefer:
+
+**caring about the details.**
+
+And photography taught me something surprisingly useful about engineering:
+
+> **What you leave out of the frame matters just as much as what you put into it.**
+
+</details>
+
+---
+
+## `09.` One last thing
+
+<div align="center">
+
+### I don't know exactly where AI is going.
+
+### That's what makes building in it so exciting.
+
+<br/>
+
+**Build. Question. Learn. Repeat.**
+
+<br/>
+
+[🌐 Portfolio](https://nivasverelli.com)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[💼 LinkedIn](https://www.linkedin.com/in/nivasverelli)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[▶ Nivas Captures](https://www.youtube.com/@nivascaptures)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[📄 Résumé](./assets/Nivas_Verelli_Resume.pdf)
+
+<br/><br/>
+
+<sub>Thanks for wandering through my corner of the internet.</sub>
 
 </div>
