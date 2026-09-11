@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nivas-journey.gif" width="100%" alt="Nivas Verelli — AI Engineer, Builder, Creator" />
+<img src="./nivas-journey.gif" width="100%" alt="Nivas Verelli — AI Engineer, Builder, Creator" />
 
 <br/>
 
