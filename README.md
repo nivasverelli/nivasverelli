@@ -8,7 +8,7 @@
 
 ### AI Engineer · Builder · Creator
 
-I like figuring out how things work — then figuring out how they could work better.
+I like figuring out how things work, then figuring out how they could work better.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nivas%20Verelli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivasverelli)
 [![YouTube](https://img.shields.io/badge/YouTube-Nivas%20Captures-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nivascaptures)
